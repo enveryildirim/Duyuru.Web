@@ -1,0 +1,12 @@
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\Duyuru.BLL.dll.config
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\Duyuru.BLL.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\Duyuru.BLL.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\Duyuru.Entities.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\EntityFramework.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\EntityFramework.SqlServer.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\Duyuru.Entities.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\EntityFramework.xml
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\bin\Release\EntityFramework.SqlServer.xml
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\obj\Release\Duyuru.BLL.csprojResolveAssemblyReference.cache
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\obj\Release\Duyuru.BLL.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.BLL\obj\Release\Duyuru.BLL.pdb

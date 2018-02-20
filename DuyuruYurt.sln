@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duyuru.Entities", "Duyuru.Entities\Duyuru.Entities.csproj", "{4B2B084B-9198-4ADF-8B02-5B081D1CCA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duyuru.BLL", "Duyuru.BLL\Duyuru.BLL.csproj", "{9596041F-4B09-43DA-97AD-4FA02B5EF7E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duyuru.MVC", "Duyuru.MVC\Duyuru.MVC.csproj", "{9C617CBA-1206-441E-AEC4-EEEF3802F0F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duyuru.MVC.Tests", "Duyuru.MVC.Tests\Duyuru.MVC.Tests.csproj", "{8498C399-ABC5-4528-BF2C-12D1A40B5257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duyuru.WebASPNET", "Duyuru.WebASPNET\Duyuru.WebASPNET.csproj", "{A23B1907-8CF7-4A62-A26D-46AA312108A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDeneme", "SignalRDeneme\SignalRDeneme.csproj", "{E035B98B-E9DC-4F07-BCE1-1B32CFED0911}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duyuru.WinForm", "Duyuru.WinForm\Duyuru.WinForm.csproj", "{26B2E048-38BC-4F67-A116-88D7988EC0C3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://enveryildirim.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Duyuru.Entities\\Duyuru.Entities.csproj
+		SccProjectName1 = Duyuru.Entities
+		SccLocalPath1 = Duyuru.Entities
+		SccProjectUniqueName2 = Duyuru.BLL\\Duyuru.BLL.csproj
+		SccProjectName2 = Duyuru.BLL
+		SccLocalPath2 = Duyuru.BLL
+		SccProjectUniqueName3 = Duyuru.MVC\\Duyuru.MVC.csproj
+		SccProjectName3 = Duyuru.MVC
+		SccLocalPath3 = Duyuru.MVC
+		SccProjectUniqueName4 = Duyuru.MVC.Tests\\Duyuru.MVC.Tests.csproj
+		SccProjectName4 = Duyuru.MVC.Tests
+		SccLocalPath4 = Duyuru.MVC.Tests
+		SccProjectUniqueName5 = Duyuru.WebASPNET\\Duyuru.WebASPNET.csproj
+		SccProjectName5 = Duyuru.WebASPNET
+		SccLocalPath5 = Duyuru.WebASPNET
+		SccProjectUniqueName6 = SignalRDeneme\\SignalRDeneme.csproj
+		SccProjectName6 = SignalRDeneme
+		SccLocalPath6 = SignalRDeneme
+		SccProjectUniqueName7 = Duyuru.WinForm\\Duyuru.WinForm.csproj
+		SccProjectName7 = Duyuru.WinForm
+		SccLocalPath7 = Duyuru.WinForm
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2B084B-9198-4ADF-8B02-5B081D1CCA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2B084B-9198-4ADF-8B02-5B081D1CCA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2B084B-9198-4ADF-8B02-5B081D1CCA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2B084B-9198-4ADF-8B02-5B081D1CCA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9596041F-4B09-43DA-97AD-4FA02B5EF7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9596041F-4B09-43DA-97AD-4FA02B5EF7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9596041F-4B09-43DA-97AD-4FA02B5EF7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9596041F-4B09-43DA-97AD-4FA02B5EF7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C617CBA-1206-441E-AEC4-EEEF3802F0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C617CBA-1206-441E-AEC4-EEEF3802F0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C617CBA-1206-441E-AEC4-EEEF3802F0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C617CBA-1206-441E-AEC4-EEEF3802F0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8498C399-ABC5-4528-BF2C-12D1A40B5257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8498C399-ABC5-4528-BF2C-12D1A40B5257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8498C399-ABC5-4528-BF2C-12D1A40B5257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8498C399-ABC5-4528-BF2C-12D1A40B5257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A23B1907-8CF7-4A62-A26D-46AA312108A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23B1907-8CF7-4A62-A26D-46AA312108A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23B1907-8CF7-4A62-A26D-46AA312108A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23B1907-8CF7-4A62-A26D-46AA312108A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E035B98B-E9DC-4F07-BCE1-1B32CFED0911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E035B98B-E9DC-4F07-BCE1-1B32CFED0911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E035B98B-E9DC-4F07-BCE1-1B32CFED0911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E035B98B-E9DC-4F07-BCE1-1B32CFED0911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26B2E048-38BC-4F67-A116-88D7988EC0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26B2E048-38BC-4F67-A116-88D7988EC0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26B2E048-38BC-4F67-A116-88D7988EC0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26B2E048-38BC-4F67-A116-88D7988EC0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

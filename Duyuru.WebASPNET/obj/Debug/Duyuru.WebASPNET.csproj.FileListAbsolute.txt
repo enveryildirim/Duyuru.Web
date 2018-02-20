@@ -1,0 +1,13 @@
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\Duyuru.WebASPNET.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\Duyuru.WebASPNET.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\Duyuru.BLL.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\Duyuru.Entities.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\EntityFramework.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\Duyuru.BLL.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\Duyuru.Entities.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\EntityFramework.xml
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\obj\Debug\Duyuru.WebASPNET.csprojResolveAssemblyReference.cache
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\obj\Debug\Duyuru.WebASPNET.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\obj\Debug\Duyuru.WebASPNET.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\EntityFramework.SqlServer.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.WebASPNET\bin\EntityFramework.SqlServer.xml

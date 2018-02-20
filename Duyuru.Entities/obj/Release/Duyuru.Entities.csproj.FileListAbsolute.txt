@@ -1,0 +1,10 @@
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\bin\Release\Duyuru.Entities.dll.config
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\bin\Release\Duyuru.Entities.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\bin\Release\Duyuru.Entities.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\bin\Release\EntityFramework.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\bin\Release\EntityFramework.SqlServer.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\bin\Release\EntityFramework.xml
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\bin\Release\EntityFramework.SqlServer.xml
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\obj\Release\Duyuru.Entities.dll
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\obj\Release\Duyuru.Entities.pdb
+D:\YandexYedek\AR-GE\DuyuruYurt\Duyuru.Entities\obj\Release\Duyuru.Entities.csprojResolveAssemblyReference.cache

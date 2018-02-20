@@ -1,0 +1,95 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row"><button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModalEkleme"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span>Yeni Ekle</button></div>
+<table class="table table-hover">
+    <thead>
+        <tr>
+          <th>#</th>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Username</th>
+        </tr>
+      </thead>
+    <tbody>
+        <tr>
+          <th scope="row"><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalGuncelle">Güncelle</button>||<button type="button" class="btn btn-danger " data-toggle="modal" data-target="#myModalSil">Sil</button></th>
+          <td>Mark</td>
+          <td>Otto</td>
+          <td>dd</td>
+        </tr>
+        <tr>
+    <th scope="row"><button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Güncelle</button><button type="button" class="btn btn-danger btn-lg" data-toggle="modal" data-target="#myModal">Sil</button></th>
+
+          <td>Jacob</td>
+          <td>Thornton</td>
+          <td>dd</td>
+        </tr>
+        <tr>
+     <th scope="row"><button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Güncelle</button><button type="button" class="btn btn-danger btn-lg" data-toggle="modal" data-target="#myModal">Sil</button></th>
+
+          <td>Larry</td>
+          <td>the Bird</td>
+          <td>twitter</td>
+        </tr>
+      </tbody>
+</table>
+
+
+<!--Ekleme Modal -->
+<div class="modal fade" id="myModalEkleme" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalEklemeLabel">Ekleme Paneli</h4>
+      </div>
+      <div class="modal-body">
+     
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+        <button type="button" class="btn btn-primary">Ekle</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Günceleme Modal -->
+<div class="modal fade" id="myModalGuncelle" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalGuncelleLabel">Güncelleme Paneli</h4>
+      </div>
+      <div class="modal-body">
+       Güncelleme
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+        <button type="button" class="btn btn-primary">Güncelle</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="myModalSil" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalSilLabel">Sil Paneli</h4>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">İptal</button>
+        <button type="button" class="btn btn-primary">Sil</button>
+      </div>
+    </div>
+  </div>
+</div>

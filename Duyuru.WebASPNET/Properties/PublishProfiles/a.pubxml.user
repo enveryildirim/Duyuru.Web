@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\DuyuruWEB</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Duyuru.BLL.dll">
+      <publishTime>05/11/2015 20:00:07</publishTime>
+    </File>
+    <File Include="bin/Duyuru.Entities.dll">
+      <publishTime>05/11/2015 20:00:07</publishTime>
+    </File>
+    <File Include="bin/Duyuru.WebASPNET.dll">
+      <publishTime>05/13/2015 14:12:02</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>05/11/2015 00:08:50</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>05/11/2015 00:08:50</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="Content/themes/base/accordion.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/all.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/autocomplete.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/base.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/button.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/core.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/datepicker.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/dialog.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/draggable.css">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>05/05/2015 11:35:28</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/menu.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/progressbar.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/resizable.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/selectable.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/selectmenu.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/slider.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/sortable.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/spinner.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/tabs.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/theme.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Content/themes/base/tooltip.css">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/13/2015 14:05:34</publishTime>
+    </File>
+    <File Include="Deneme.aspx">
+      <publishTime>05/08/2015 00:20:27</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/04/2015 21:46:06</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>05/04/2015 21:46:05</publishTime>
+    </File>
+    <File Include="Icon.png">
+      <publishTime>05/04/2015 21:46:05</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/10/2015 18:58:46</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/11/2015 00:09:06</publishTime>
+    </File>
+    <File Include="Scripts/ajax.js">
+      <publishTime>05/08/2015 00:26:38</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>05/04/2015 21:46:05</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>05/04/2015 21:46:05</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>05/04/2015 21:46:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>05/04/2015 21:46:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>05/04/2015 21:46:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.11.4.js">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.11.4.min.js">
+      <publishTime>05/05/2015 11:35:27</publishTime>
+    </File>
+    <File Include="Scripts/npm.js">
+      <publishTime>05/04/2015 21:46:05</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/11/2015 00:09:29</publishTime>
+    </File>
+    <File Include="Yonetim/Admin.aspx">
+      <publishTime>05/10/2015 17:53:14</publishTime>
+    </File>
+    <File Include="Yonetim/Icerik.aspx">
+      <publishTime>05/10/2015 17:53:29</publishTime>
+    </File>
+    <File Include="Yonetim/Kantin.aspx">
+      <publishTime>05/05/2015 17:56:24</publishTime>
+    </File>
+    <File Include="Yonetim/Kullanicilar.aspx">
+      <publishTime>05/10/2015 17:53:29</publishTime>
+    </File>
+    <File Include="Yonetim/Nobetciler.aspx">
+      <publishTime>05/10/2015 17:52:05</publishTime>
+    </File>
+    <File Include="Yonetim/SesliDuyuru.aspx">
+      <publishTime>05/11/2015 13:04:09</publishTime>
+    </File>
+    <File Include="Yonetim/YayinAkisi.aspx">
+      <publishTime>05/11/2015 11:28:47</publishTime>
+    </File>
+    <File Include="Yonetim/Yemekciler.aspx">
+      <publishTime>05/11/2015 12:01:24</publishTime>
+    </File>
+    <File Include="Yonetim/Yonetim.Master">
+      <publishTime>05/06/2015 15:12:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Yonetim.master.cs" Inherits="Duyuru.WebASPNET.Yonetim.Yonetim" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Yönetim Paneli</title>
+   <meta name="viewport" content=meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../Scripts/jquery-1.9.1.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <script src="../Scripts/jquery-ui-1.11.4.min.js"></script>
+    <link href="../Content/themes/base/theme.css" rel="stylesheet" />
+    <link href="../Content/themes/base/core.css" rel="stylesheet" />
+    <link href="../Content/themes/base/datepicker.css" rel="stylesheet" />
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="../Content/bootstrap-theme.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+          <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+  
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Yönetim Paneli</a>
+    </div>
+
+  
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <div class="navbar-form navbar-right" >
+            <div class="form-group">
+            <a href="Admin.aspx" class="text-uppercase text-default">
+               # <asp:Label ID="lblad" runat="server" Text=""></asp:Label></a>
+            </div>
+          <asp:Button ID="Button1" runat="server" Text="Çıkış Yap" CssClass="btn btn-danger" OnClick="Button1_Click" />
+
+      </div>
+     
+    </div>
+  </div>
+</nav>
+
+    <div class="col-lg-2">
+       <div class="list-group" runat="server" id="kategori">
+           <asp:Repeater ID="Repeater1" runat="server">
+               <ItemTemplate>
+                     <a href='<%#ResolveUrl(Eval("link").ToString()) %>' class="list-group-item"><span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <%#Eval("yazi") %></a>
+               </ItemTemplate>
+           </asp:Repeater>
+  
+        </div>
+    </div>
+        <div class="col-lg-10">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+       </div>
+    </div>
+    </form>
+</body>
+</html>
